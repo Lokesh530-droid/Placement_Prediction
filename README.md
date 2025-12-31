@@ -1,4 +1,4 @@
-# Placement Prediction using Machine Learning
+python# Placement Prediction using Machine Learning
 
 This project focuses on predicting student placement and salary in campus recruitment using Random Forest classifiers. The goal is to help students and educational institutions understand the factors that influence placement success and expected salary.
 
@@ -117,6 +117,17 @@ The trained models are deployed using a Flask web application. The app allows us
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
+
+## Acknowledgement
+
+This project was developed for academic learning purposes.
+The initial idea and reference were taken from the open-source GitHub project
+**"Placement Prediction Using Machine Learning"** by **Charan S (GitHub: charans2702)**.
+
+The project was carefully studied, modified, and implemented by the author to understand
+machine learning concepts, data preprocessing, and Flask-based web application development.
+
+This work helped in gaining practical experience in Python, Machine Learning, and web development.
 
 ## License
 
